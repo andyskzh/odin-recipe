@@ -1,0 +1,30 @@
+body {
+  background-color: sandybrown;
+}
+
+.nav {
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+}
+
+.recetas {
+  text-align: center;
+}
+
+.container {
+  height: auto;
+  width: auto;
+  margin-top: 10px;
+}
+
+.abuela {
+  height: 30%;
+  width: 100%;
+  border-radius: 10px;
+}
+
+.pages {
+  margin: 10px;
+}
